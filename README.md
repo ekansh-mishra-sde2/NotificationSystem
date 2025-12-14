@@ -173,3 +173,21 @@ Asynchronous processing
 Industry-standard practices
 
 This design is interview-ready and production-aligned.
+
+
+▶  How To Run
+
+Notification Consumer started...
+
+Notification Producer started...
+
+> EMAIL Alert ServerDown
+>> Sending to Alice -> alice@email.com
+> 
+>=================================================================================
+> SMS Otp 1234
+>> Sending to Charlie -> 1234567890
+> 
+>=================================================================================
+> exit
+>> Notification System stopped.
